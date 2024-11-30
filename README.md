@@ -1,10 +1,10 @@
 ## Project Management - PRJ1 (Fanshawe College Acadamic year 2023)
 
-#### Program Overview
+### 🌟 Program Overview
 
 This one-year post-grad program is designed for university and college graduates looking for a career in the project management sector. You’ll gain the in-depth knowledge, competencies, skills, tools, and techniques required to plan and execute projects that achieve organizational goals on time and on budget. This program also addresses emerging industry trends through project management courses that cover agile project management, recovery, risk, quality and leadership.
 
-#### Learning Experience
+### 🌟 Learning Experience
 
 Project Management is a one-year Ontario College Graduate Certificate program. The Project Management Institute (PMI) Project Management Body of Knowledge is an integral part of the program curriculum. 
 
