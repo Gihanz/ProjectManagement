@@ -1,4 +1,4 @@
-## Project Management - PRJ1 [Fanshawe College]
+## Project Management - PRJ1 (Fanshawe College Acadamic year 2023)
 
 #### Program Overview
 
